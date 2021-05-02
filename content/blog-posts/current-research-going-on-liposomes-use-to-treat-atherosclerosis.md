@@ -1,5 +1,5 @@
 +++
-author = "Walt Whitman"
+author = "Kaustubh Joshi & Bharat Rajmalani"
 date = 2021-05-01T18:30:00Z
 hero = ""
 title = "Current research going on liposomes use to treat atherosclerosis"
