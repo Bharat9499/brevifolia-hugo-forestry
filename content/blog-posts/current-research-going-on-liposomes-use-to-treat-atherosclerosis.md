@@ -1,9 +1,0 @@
-+++
-author = "Kaustubh Joshi & Bharat Rajmalani"
-date = 2021-05-01T18:30:00Z
-hero = ""
-title = "Current research going on liposomes use to treat atherosclerosis"
-type = "blog"
-
-+++
-Liposome’s implementation mainly depends on its capability to target atherosclerotic lesions/plagues. There are various novel strategies developed to target endothelium, plagues, and macrophages. By enhanced permeability and retention plaques can be easily targeted. Damaged endothelium overexpresses some specific biomarkers like VCAM1, ICAM1, and LOX-1. Antibodies against biomarkers is attached to target the damaged endothelium. Research done anti-VCAM1 and anti-ICAM1 liposomes used to target endothelial cells. LOX-1 receptor is another target for liposomes due to receptor upregulation on endothelium resulting into secretion of cytokines which leads to inflammation. Specific targeting of liposomes by attaching antibodies creates a difficulty by increasing immune recognitions of liposomes. It causes faster removal of liposomes from circulatory system. To overcome this problem density of liposomes must be optimized. Despite promising results, it is problematic due to blood flow in the vessels creates shear stress at endothelial cells. Macrophages used as another approach to treat atherosclerosis. Phosphatidylserine presence in the surface of apoptotic cell leads to identification and engulfment of macrophages. Incorporating PS inti liposomes to help them identifying macrophages brings macrophage rich site of lesion. Receptors like CDR6, gAD (binds due to presence of adinopectin) and Folate receptor Beta present on the surface of macrophages can be used a target for liposomes. Fibrous is used as target for liposomes to treat atherosclerosis. Various antifibrinogenic conjugated liposomes studied on animal models showed satisfactory results.
