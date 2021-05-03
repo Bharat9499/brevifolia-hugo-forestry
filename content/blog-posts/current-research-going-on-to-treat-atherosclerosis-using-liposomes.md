@@ -1,7 +1,6 @@
 +++
 author = "Kaustubh Joshi & Bharat Rajmalani"
 date = 2021-05-03T18:30:00Z
-draft = true
 hero = "/images/screenshot-2021-05-03-150159.png"
 title = "Current research going on to treat atherosclerosis using liposomes"
 type = "blog"
