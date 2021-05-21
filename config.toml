@@ -1,4 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "vo"
+theme = "tale-theme"
 title = "PharmaMinus"
