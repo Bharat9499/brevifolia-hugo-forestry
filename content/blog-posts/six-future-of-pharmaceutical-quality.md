@@ -12,7 +12,7 @@ type = "blog"
 
 <p align="center">
 
-<img width="460" height="300" src="/images/six-image.PNG">
+<img width="520" height="270" src="/images/six-image.PNG">
 
 </p>
 
@@ -20,7 +20,7 @@ type = "blog"
 
 <p align="center">
 
-<img width="460" height="300" src="/images/pat.PNG">
+<img width="280" height="200" src="/images/pat.PNG">
 
 </p>
 
