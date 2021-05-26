@@ -18,7 +18,7 @@ type = "blog"
 
 ![](/images/pat.PNG)
 
-**<**/p>
+</p>
 
 <div style="text-align: justify">Continuous improvement is a part of our overall effort to improve product quality, particularly for legacy products. Regulatory authorities need to create an environment and provide incentives for manufacturers to continually improve their manufacturing processes. A continuous improvement effort seeks to remove sources of inherent variability from the process operation conditions and raw material quality, resulting in higher process capability. Continuous improvement typically has five phases: (i) defining the problem and the project goals, (ii) measuring key aspects of the current process and collecting relevant data, (iii) analyzing the data to investigate and verify cause-and-effect relationships, (iv) improving or optimizing the current process based on data analysis (e.g., design of experiments), and (v) controlling the new process to ensure that any deviations are corrected. One company’s pursuit of quality reduced the error rate 96% from 2006 to 2014 and generated cumulative saving of $400 million. With respect to avoiding shortages and recalls, patients also directly benefit from this pursuit of excellence.</div><br/>
 
