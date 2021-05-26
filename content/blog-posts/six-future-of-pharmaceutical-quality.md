@@ -1,5 +1,5 @@
 +++
-author = "Kaustubh Joshi & Bharat Rajmalani"
+author = ""
 date = 2021-05-25T19:30:00Z
 hero = "/images/capture.PNG"
 title = "Six σ :Future of Pharmaceutical Quality"
@@ -16,7 +16,7 @@ type = "blog"
 
 <p align="center">
 
-![](/images/pat.PNG)
+<img width="460" height="300" src="/images/pat.PNG">
 
 </p>
 
