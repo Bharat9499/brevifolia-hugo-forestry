@@ -5,7 +5,7 @@ background_color: "#B4CEC8"
 contact_info:
   twitter_handle: KaustubhJoshiB
   github_handle: Bharat9499
-  email: kaustubhfirst@gmail.com
+  email: pharmaminus@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
 type: ''
